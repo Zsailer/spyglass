@@ -1,0 +1,5 @@
+pyperclip
+cryptography
+pyyaml
+click
+zxcvbn
