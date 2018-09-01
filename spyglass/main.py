@@ -142,6 +142,7 @@ def get(key, show):
     # Print username to console.
     print()
     print(f"Username: {username}")
+    print("Password copied to clipboard!")
     if show:
         print(f"Password: {password}")
     print()
